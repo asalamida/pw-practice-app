@@ -1,4 +1,3 @@
 this is a test phrase one
 
-this is a second test word
-new change
+this is a second test phrase
